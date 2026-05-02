@@ -1,5 +1,3 @@
-මෙන්න ඔබ ඉල්ලූ ආකාරයට `pastpapaer.jpg` පින්තූරය ඇතුළත් කර සකස් කරන ලද සම්පූර්ණ `README.md` පෙළ (Full Text). මෙය කෙලින්ම copy කර ඔබේ GitHub repository එකට ඇතුළත් කළ හැක.
-
 ```markdown
 # 🤖 WhatsApp PDF Bot
 
