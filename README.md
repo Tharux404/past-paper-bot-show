@@ -2,7 +2,7 @@ markdown
 # 🤖 WhatsApp PDF Bot
 
 <p align="center">
-  <img src="pastpapaer.jpg" alt="WhatsApp PDF Bot Banner" width="800" style="border-radius: 15px;">
+  <img src="images/pastpapaer.jpg" alt="WhatsApp PDF Bot Banner" width="800" style="border-radius: 15px;">
 </p>
 
 A simple WhatsApp bot that sends PDF files automatically when users request them 📄✨
