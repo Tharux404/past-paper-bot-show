@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 🤖 WhatsApp PDF Bot
 
 <p align="center">
