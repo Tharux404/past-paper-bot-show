@@ -106,4 +106,3 @@ const pdfs = {
 Perfect for sharing lessons 📘, distributing notes 📝, and automating file delivery ⚡.
 
 <p align="center"> <b>Simple & Powerful ⚡</b> </p>
-```
